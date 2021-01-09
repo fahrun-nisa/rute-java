@@ -1,0 +1,30 @@
+12
+CLARO
+Hotel Athaya
+Hotel Zahra Syariah
+Kendari Suite Hotel
+Swiss-Belhotel
+Zenith Hotel
+Cahaya Hotel
+Plaza Kubra Hotel
+Horison Hotel
+Holte Delta In
+Same Hotel
+Amaris Hotel
+
+"CLARO" "Hotel Athaya" 12
+"CLARO" "Hotel Zahra Syariah" 23
+"CLARO" "Cahaya Hotel" 40
+"Hotel Athaya" "Kendari Suite Hotel" 35
+"Hotel Athaya" "Zenith Hotel" 33
+"Cahaya Hotel" "Zenith Hotel" 30
+"Hotel Zahra Syariah" "Cahaya Hotel" 34
+"Swiss-Belhotel" "Horison Hotel" 30
+"Holte Delta In" "Same Hotel" 26
+"Zenith Hotel" "Plaza Kubra Hotel" 33
+"Kendari Suite Hotel" "Plaza Kubra Hotel" 32
+"Kendari Suite Hotel" "Same Hotel" 26
+"Hotel Athaya" "Horison Hotel" 44
+"Hotel Zahra Syariah" "Swiss-Belhotel" 42
+"Horison Hotel" "Amaris Hotel" 61
+"Amaris Hotel" "Holte Delta In" 24
